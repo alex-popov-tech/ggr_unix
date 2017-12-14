@@ -1,0 +1,16 @@
+<qa:browsers xmlns:qa="urn:config.gridrouter.qatools.ru">
+<browser name="chrome" defaultVersion="62.0">
+    <version number="62.0">
+        <region name="1">
+            <host name="localhost" port="4445" count="1"/>
+        </region>
+    </version>
+</browser>
+<browser name="firefox" defaultVersion="57.0">
+    <version number="57.0">
+        <region name="1">
+            <host name="localhost" port="4445" count="1"/>
+        </region>
+    </version>
+</browser>
+</qa:browsers>
