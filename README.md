@@ -7,7 +7,7 @@
 * Navigate to folder where you want to ggr folders live in
 * Create http auth credentials for future using in url to connect tests with ggr
   * use command `htpasswd -bc $PWD/users.htpasswd <USERNAME> <PASSWORD>`
-  * you should remember or save somewhere that `<USERNAME>` and `<PASSWORD>` valuesm cause AQA team needs them to connect to ggr
+  * you should remember or save somewhere that `<USERNAME>` and `<PASSWORD>`
 * Create quota config file
   * create directory and navigate into it using command `mkdir quota && cd quota`
   * create config file using command `touch <USERNAME>.xml`
