@@ -47,4 +47,3 @@ alexanderpopov@Alexander-MBP docker logs ggr
 2017/12/14 10:03:41 Users file is [/etc/grid-router/users.htpasswd]
 2017/12/14 10:03:41 Loading configuration files from [/etc/grid-router/quota]
 ```
-* Notify AQA team and provide them `<USERNAME>` and `<PASSWORD>` for ggr
