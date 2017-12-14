@@ -47,4 +47,4 @@ alexanderpopov@Alexander-MBP docker logs ggr
 2017/12/14 10:03:41 Users file is [/etc/grid-router/users.htpasswd]
 2017/12/14 10:03:41 Loading configuration files from [/etc/grid-router/quota]
 ```
-Link to (selenoid)[http://aerokube.com/selenoid/latest/], link to (ggr)[http://aerokube.com/ggr/latest/].
+Link to [selenoid](http://aerokube.com/selenoid/latest/), link to [ggr](http://aerokube.com/ggr/latest/).
